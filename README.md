@@ -11,8 +11,8 @@
 
 <div display="inline">
     <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>     
+    <img width="50" height="50" hspace="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
         
 ### 📖 **Sobre mim..**  
 
@@ -22,11 +22,11 @@ Minha jornada na tecnologia começou quando aos 18 anos criei meu primeiro Servi
 ---
 
 ### 💬 **Você também me encontra em:**  
-<a href="https://www.linkedin.com/in/lucas-alves-veloso-code">
+<a href="www.linkedin.com/in/lucas-alves-veloso-code">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.dio.me/users/lucas_alvessp">
-    <img src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn" />
+    <img hspace="15" src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn" />
 </a>
 
 ---
