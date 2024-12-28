@@ -4,7 +4,7 @@
 ### **Olá! 👋 Lucas aqui (:**  
 
 🚀 Futuro Dev que sonha em construir algo tão estável quanto meus commits.   
-💻 Código limpo, exceto quando está bagunçado, aí nós arrumamos.  
+💻 Código limpo, exceto quando está bagunçado.
 🏹 Missão atual: Criar softwares que façam a diferença no mundo.   
 🧠 "Hello World" já é clichê, mas funciona!   
 🛡️ Focado em: JavaScript (⚡) -> Python (🔥) -> Chá (☕).
